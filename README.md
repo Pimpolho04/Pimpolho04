@@ -2,5 +2,5 @@
 
 Sou a Yasmin
 
-Estudo na escola [Nicota](instagram/escola.donanicota)
+Estudo na escola [Nicota](http://instagram/escola.donanicota/)
 **asteriscos duplos é negrito**
